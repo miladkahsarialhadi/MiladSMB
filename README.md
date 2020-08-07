@@ -4,7 +4,7 @@ Server Message Block (SMB) is a communication protocol for providing shared acce
 
 # Milad SMB Client Change Logs:
 
-Milad SMB Client provide some APIs to you to work with shared directories and also remote machine. The following features are providing by Milad SMB Client library that is header-based library that developer can use it with just including it in their programs.
+Milad SMB Client provides some APIs to you to work with shared directories and also the remote machine. The following features are providing by the Milad SMB Client library. I should mention, MSC is a header-based library that developers can use it with just including it in their programs. It is written by C++. 
 
 ## v1.0.0 - Luminary
 * Check Connection

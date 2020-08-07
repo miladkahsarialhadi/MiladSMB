@@ -16,8 +16,6 @@ Milad SMB Client provide some APIs to you to work with shared directories and al
 ## v1.1.0 - Eminent
 * Query Active Users
 * Windows Management Instrument Command
-- File System Statistics
-- Access to CMD.exe
 * Host Name to Ip
 * Ip to Host Name
 
